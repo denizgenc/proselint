@@ -27,6 +27,7 @@ def check(text):
         ["attorney and notary public",    ["attorney and not a republic"]],
         ["beck and call",                 ["beckon call"]],
         ["for all intents and purposes",  ["for all intensive purposes"]],
+        ["hair's breadth",                ["hare's breath"]],
         ["laid him on the green",         ["Lady Mondegreen"]],
         ["all of the other reindeer",     ["Olive, the other reindeer"]],
         ["to the manner born",            ["to the manor born"]],
